@@ -32,9 +32,9 @@ I once  "built a robot that could solve a Rubik's Cube in under a minute" ].
 ---
 
 ### About This Repository
-This README is a special place where I share a little about myself and my journey in tech. You can click the **Preview** link to see how it looks on my profile.
+
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
 
 [![GitHub Followers](https://img.shields.io/github/followers/toshAG?label=Follow&style=social)](https://github.com/toshAG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://www.linkedin.com/in/ayub-gitonga-79a046202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
