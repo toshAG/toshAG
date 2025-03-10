@@ -19,15 +19,15 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and col
 
 ## 📫 **How to reach me...**
 - **Email:** [gitongaayub138@gmail.com]
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/ayub-gitonga-79a046202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-- **Twitter:** [Your Twitter Handle]
+- **LinkedIn:** [(https://www.linkedin.com/in/ayub-gitonga-79a046202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+
 - Feel free to reach out—I’d love to connect!
 
 ## 😄 **Pronouns:**
 He/Him
 
 ## ⚡ **Fun fact:**
-I once [insert a fun or interesting fact about yourself, e.g., "built a robot that could solve a Rubik's Cube in under a minute" or "learned to code by creating a game in a week"].
+I once  "built a robot that could solve a Rubik's Cube in under a minute" ].
 
 ---
 
