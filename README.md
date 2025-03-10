@@ -37,4 +37,4 @@ I once  "built a robot that could solve a Rubik's Cube in under a minute" ].
 Thanks for stopping by! Let’s build something amazing together. 🚀
 
 [![GitHub Followers](https://img.shields.io/github/followers/toshAG?label=Follow&style=social)](https://github.com/toshAG)
-[![LinkedIn](https://www.linkedin.com/in/ayub-gitonga-79a046202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayub-gitonga-79a046202)
